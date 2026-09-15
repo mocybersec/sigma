@@ -3660,3 +3660,16 @@ https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/blob/7b8935fe4c82cb64d
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
+https://learn.microsoft.com/en-us/windows/client-management/manage-recall
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
+https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html
+https://strontic.github.io/xcyclopedia/library/iexpress.exe-D594B2A33EFAFD0EABF09E3FDC05FCEA.html
+https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-kubernetes.html#privilegeescalation-kubernetes-privilegedcontainer
+https://github.com/EvotecIT/TheDashboard/blob/481a9ce8f82f2fd55fe65220ee6486bae6df0c9d/Examples/RunReports/PingCastle.ps1
+https://posts.specterops.io/the-tale-of-settingcontent-ms-files-f1ea253e4d39
+https://us-cert.cisa.gov/ncas/alerts/aa21-259a
+https://www.elastic.co/guide/en/security/current/unusual-file-modification-by-dns-exe.html
+https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/
+https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
+https://nvd.nist.gov/vuln/detail/CVE-2024-3400
+https://www.group-ib.com/resources/threat-research/red-curl-2.html
