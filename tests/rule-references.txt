@@ -3660,3 +3660,13 @@ https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/blob/7b8935fe4c82cb64d
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
+https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
+https://www.hexacorn.com/blog/2022/01/16/beyond-good-ol-run-key-part-135/
+https://www.cobaltstrike.com/blog/why-is-notepad-exe-connecting-to-the-internet
+https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf
+https://tria.ge/231023-lpw85she57/behavioral2
+https://community.openvpn.net/openvpn/wiki/ManagingWindowsTAPDrivers
+https://www.hexacorn.com/blog/2023/12/31/1-little-known-secret-of-forfiles-exe/
+https://nvd.nist.gov/vuln/detail/CVE-2024-3400
+https://us-cert.cisa.gov/ncas/alerts/aa21-008a
+https://asec.ahnlab.com/en/58878/
