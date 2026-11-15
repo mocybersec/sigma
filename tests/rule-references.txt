@@ -3660,3 +3660,13 @@ https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks/blob/7b8935fe4c82cb64d
 https://doublepulsar.com/follina-a-microsoft-office-code-execution-vulnerability-1a47fce5629e
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
 https://web.archive.org/web/20160928212230/https://www.adaptforward.com/2016/09/using-netshell-to-execute-evil-dlls-and-persist-on-a-host/
+https://www.hexacorn.com/blog/2018/12/30/beyond-good-ol-run-key-part-98/
+https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
+https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8
+https://twitter.com/Max_Mal_/status/1775222576639291859
+https://www.sans.org/cyber-security-summit/archives
+https://www.welivesecurity.com/2017/10/20/osx-proton-supply-chain-attack-elmedia/
+http://www.hexacorn.com/blog/2017/05/01/running-programs-via-proxy-jumping-on-a-edr-bypass-trampoline/
+https://f5-sdk.readthedocs.io/en/latest/apidoc/f5.bigip.tm.util.html#module-f5.bigip.tm.util.bash
+https://www.hexacorn.com/blog/2017/07/31/the-wizard-of-x-oppa-plugx-style/
+https://www.virustotal.com/gui/file/6bb4cdbaef03b732a93559a58173e7f16b29bfb159a1065fae9185000ff23b4b
